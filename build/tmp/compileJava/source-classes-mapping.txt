@@ -1,0 +1,43 @@
+common/AdDetailsMapper.java
+ common.AdDetailsMapper
+common/enums/SortingType.java
+ common.enums.SortingType
+common/enums/TransactionType.java
+ common.enums.TransactionType
+common/enums/AccommodationType.java
+ common.enums.AccommodationType
+common/entities/DetailedAd.java
+ common.entities.DetailedAd
+common/AdDetailsBuilder.java
+ common.AdDetailsBuilder
+n1/N1DetailsBuilder.java
+ n1.N1DetailsBuilder
+common/entities/PreviewAd.java
+ common.entities.PreviewAd
+common/AdPreviewMapper.java
+ common.AdPreviewMapper
+n1/N1DetailsMapper.java
+ n1.N1DetailsMapper
+n1/N1FilterMapper.java
+ n1.N1FilterMapper
+ n1.N1FilterMapper$1
+n1/N1Parser.java
+ n1.N1Parser
+common/AdUrlBuilder.java
+ common.AdUrlBuilder
+n1/N1PreviewMapper.java
+ n1.N1PreviewMapper
+common/entities/AdFilters.java
+ common.entities.AdFilters
+common/AdParser.java
+ common.AdParser
+n1/N1UrlBuilder.java
+ n1.N1UrlBuilder
+common/AdFilterMapper.java
+ common.AdFilterMapper
+common/AdPreviewBuilder.java
+ common.AdPreviewBuilder
+n1/N1PreviewBuilder.java
+ n1.N1PreviewBuilder
+Main.java
+ Main
